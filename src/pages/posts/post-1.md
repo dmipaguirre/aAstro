@@ -1,27 +1,27 @@
 ---
-title: 'My First Blog Post'
+title: 'Mi primera publicación en el blog'
 pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
-author: 'Astro Learner'
+description: 'Este es la primera publicación de mi nuevo blog Astro.'
+author: 'Alumno de Astro'
 image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["astro", "blogging", "learning in public"]
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    alt: 'El logotipo completo de Astro.'
+tags: ["astro", "bloguear", "aprender en público"]
 ---
-# My First Blog Post
+# Mi primera publicación en el blog
 
-Published on: 2022-07-01
+Publicado el: 2022-07-01
 
-Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
+¡Bienvenido a mi _nuevo blog_ sobre el aprendizaje de Astro! Aquí, voy a compartir mi viaje de aprendizaje a medida que construyo un nuevo sitio web.
 
-## What I've accomplished
+## Lo que he conseguido
 
-1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
+1. **Instalación de Astro**: En primer lugar, he creado un nuevo proyecto Astro y configurar mis cuentas en línea.
 
-2. **Making Pages**: I then learned how to make pages by creating new `.astro` files and placing them in the `src/pages/` folder.
+2. **Creación de páginas**: Luego aprendí cómo hacer páginas creando nuevos archivos `.astro` y colocándolos en la carpeta `src/pages/`.
 
-3. **Making Blog Posts**: This is my first blog post! I now have Astro pages and Markdown posts!
+3. **Creación de publicaciones**: ¡Esta es mi primera publicación! ¡Ahora tengo páginas de Astro y publicaciónes en Markdown!
 
-## What's next
+## Próximos pasos
 
-I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.
+Terminaré el tutorial de Astro, y luego seguiré añadiendo más publicaciones. Mira este espacio para más por venir.
